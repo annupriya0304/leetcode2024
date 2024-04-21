@@ -12,3 +12,4 @@
 /Users/annupriya/Downloads/leetcode/obj/Debug/net8.0/leetcode.pdb
 /Users/annupriya/Downloads/leetcode/obj/Debug/net8.0/leetcode.genruntimeconfig.cache
 /Users/annupriya/Downloads/leetcode/obj/Debug/net8.0/ref/leetcode.dll
+/Users/annupriya/Downloads/leetcode/obj/Debug/net8.0/leetcode.sourcelink.json
